@@ -12,7 +12,7 @@ function Footer() {
             LinkedIn
           </a>
         </div>
-        <p>&copy; {new Date().getFullYear()} Your Name</p>
+        <p>&copy; {new Date().getFullYear()} Sri Lakshmi Sowmya Mallipudi</p>
       </div>
     </footer>
   );

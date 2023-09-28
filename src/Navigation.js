@@ -14,9 +14,6 @@ function Navigation() {
         <li>
           <NavLink to="/contact">Contact</NavLink>
         </li>
-        <li>
-          <NavLink to="/resume">Resume</NavLink>
-        </li>
       </ul>
     </nav>
   );

@@ -30,7 +30,7 @@ function Contact() {
             <input
               type="text"
               id="name"
-              name="name"
+              name="Sri Lakshmi Sowmya Mallipudi"
               value={formData.name}
               onChange={handleChange}
               required
@@ -41,7 +41,7 @@ function Contact() {
             <input
               type="email"
               id="email"
-              name="email"
+              name="lakshmisowmya.chirukuri@gmail.com"
               value={formData.email}
               onChange={handleChange}
               required
